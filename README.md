@@ -1,4 +1,4 @@
-## Welcome to Project 6
+## Welcome to CIT 281 Project 6
 
 ### Learning Objectives
 
